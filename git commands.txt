@@ -12,3 +12,4 @@ git config --global user.name "Prasad"
 
 git config --global user.email "prasadmendhe1999@gmail.com"
 
+after creating the repo in remote git copy all the commands in the cmd in that folder
