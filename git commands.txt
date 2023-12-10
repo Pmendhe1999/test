@@ -13,3 +13,16 @@ git config --global user.name "Prasad"
 git config --global user.email "prasadmendhe1999@gmail.com"
 
 after creating the repo in remote git copy all the commands in the cmd in that folder
+
+git init - initiates git process
+
+git status - which are not uploaded in remote repository
+
+git add . -  select every files to upload
+
+git commit -m "first commit"   m=message  it goes to stagin area (folder and files git will upload)
+
+
+
+
+
