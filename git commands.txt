@@ -22,7 +22,7 @@ git add . -  select every files to upload
 
 git commit -m "first commit"   m=message  it goes to stagin area (folder and files git will upload)
 
-
+git clone- coping the code from the remote repository
 
 
 
