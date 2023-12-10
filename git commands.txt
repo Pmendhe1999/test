@@ -1,0 +1,14 @@
+git commands
+
+dir-shows all directories in the current folder 
+
+cls-clear the screeen
+
+cd -change the directory
+
+cd.. - one directory before
+
+git config --global user.name "Prasad"
+
+git config --global user.email "prasadmendhe1999@gmail.com"
+
